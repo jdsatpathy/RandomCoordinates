@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/jdsatpathy/Documents/MyIntelliJProjects/RandomCoordinates/target/scala-2.11/randomcoordinates_2.11-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	comm/Coordinator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jdsatpathy/Documents/MyIntelliJProjects/RandomCoordinates/target/scala-2.11/classes/comm/Coordinator.class[0m
+[0m[[0mdebug[0m] [0m	comm/Coordinates$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jdsatpathy/Documents/MyIntelliJProjects/RandomCoordinates/target/scala-2.11/classes/comm/Coordinates$.class[0m
+[0m[[0mdebug[0m] [0m	comm[0m
+[0m[[0mdebug[0m] [0m	  /Users/jdsatpathy/Documents/MyIntelliJProjects/RandomCoordinates/target/scala-2.11/classes/comm[0m
+[0m[[0mdebug[0m] [0m	comm/Coordinator$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jdsatpathy/Documents/MyIntelliJProjects/RandomCoordinates/target/scala-2.11/classes/comm/Coordinator$.class[0m
+[0m[[0mdebug[0m] [0m	application.properties[0m
+[0m[[0mdebug[0m] [0m	  /Users/jdsatpathy/Documents/MyIntelliJProjects/RandomCoordinates/target/scala-2.11/classes/application.properties[0m
+[0m[[0mdebug[0m] [0m	comm/Coordinates.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jdsatpathy/Documents/MyIntelliJProjects/RandomCoordinates/target/scala-2.11/classes/comm/Coordinates.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
